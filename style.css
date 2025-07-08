@@ -18,7 +18,7 @@ header h1{
 
 nav a {
     margin: 0.1rem;
-    color: #00ffcc;
+    color: #ffc800;
     text-decoration: none;
     font-weight: bold;
 }
@@ -30,7 +30,7 @@ main {
 }
 
 h2 {
-    color: #00ffcc;
+    color: #ff00f2;
     margin-top: 2rem;
 }
 
@@ -40,7 +40,7 @@ h2 {
     background-color: #222;
     margin-bottom: 1rem;
     padding: 1rem;
-    border-left: 4px solid #00ffcc;
+    border-left: 4px solid #ffc800;
 }
 
 .proyecto img{
@@ -54,7 +54,7 @@ h2 {
 }
 
 a {
-    color: #00ffcc;
+    color: #ffffff;
 }
 
 ul {
